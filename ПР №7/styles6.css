@@ -1,0 +1,43 @@
+#block1,
+#block2,
+#block3,
+#block4,
+#block5 {
+  border: 4px solid brown;
+  font-weight: bold;
+  font-size: 20pt;
+  position: relative;
+}
+#block1 {
+  width: 100%;
+  height: 100px;
+  background-color: #9999ff;
+}
+#block2 {
+  width: 20%;
+  height: 500px;
+  background-color: #99ff99;
+  float: left;
+  top: 20px;
+}
+#block3 {
+  width: 30%;
+  height: 500px;
+  background-color: #ff66ff;
+  float: left;
+  top: 20px;
+}
+#block4 {
+  width: 20%;
+  height: 500px;
+  background-color: #ff3333;
+  float: right;
+  top: 20px;
+}
+#block5 {
+  width: 100%;
+  height: 100px;
+  background-color: #33ffff;
+
+  top: 520px;
+}
